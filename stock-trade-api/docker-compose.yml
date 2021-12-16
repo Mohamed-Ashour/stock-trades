@@ -8,9 +8,6 @@ services:
     build: .
     ports:
       - '3000:3000'
-    volumes:
-      - '.:/code'
-      - '/code/node_modules'
     depends_on:
       - mongo
 
