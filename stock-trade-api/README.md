@@ -1,11 +1,6 @@
 # Stock Trade API
 
 
-
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
 ## Running the app
 
 ```bash
@@ -18,7 +13,7 @@ docker-compose up
 ```bash
 # install dependencies
 $ npm install
-# run tests
+# run test cases
 $ npm run test
 ```
 
